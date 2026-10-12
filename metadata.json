@@ -1,0 +1,6 @@
+{
+  "name": "An Noor",
+  "description": "Official organizational management, digital library, event schedule, member directory, and financial management platform for An Noor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
